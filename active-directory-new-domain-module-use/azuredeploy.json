@@ -50,7 +50,7 @@
                         "value": "[parameters('adminUsername')]"
                     },
                     "adminPassword": {
-                        "value": "[parameters('adminPassword')]"
+                        "value": "[parameters('Adminpassword@1234')]"
                     },
                     "domainName": {
                         "value": "[parameters('domainName')]"
